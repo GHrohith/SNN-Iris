@@ -1,5 +1,6 @@
 vivado_proj/*
 !vivado_proj/ip_repo/
+!vivado_proj/lif_vivado/
 
 vivado_proj/ip_repo/*
 !vivado_proj/ip_repo/lif_ip_1_0/
@@ -7,3 +8,9 @@ vivado_proj/ip_repo/*
 vivado_proj/ip_repo/lif_ip_1_0/*
 !vivado_proj/ip_repo/lif_ip_1_0/src/
 !vivado_proj/ip_repo/lif_ip_1_0/hdl/
+
+vivado_proj/lif_vivado/*
+!vivado_proj/lif_vivado/*.bit
+!vivado_proj/lif_vivado/*.hwh
+!vivado_proj/lif_vivado/*.png
+
