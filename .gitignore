@@ -3,7 +3,8 @@ vivado_proj/*
 
 vivado_proj/ip_repo/*
 !vivado_proj/ip_repo/lif_ip_1_0/
+!vivado_proj/ip_repo/network_ip_1_0/
 
-vivado_proj/ip_repo/lif_ip_1_0/*
-!vivado_proj/ip_repo/lif_ip_1_0/src/
-!vivado_proj/ip_repo/lif_ip_1_0/hdl/
+vivado_proj/ip_repo/*/*
+!vivado_proj/ip_repo/*/src/
+!vivado_proj/ip_repo/*/hdl/
