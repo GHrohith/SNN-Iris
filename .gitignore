@@ -14,3 +14,4 @@ vivado_proj/lif_vivado/*
 !vivado_proj/lif_vivado/*.hwh
 !vivado_proj/lif_vivado/*.png
 
+fpga/
